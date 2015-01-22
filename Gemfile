@@ -11,6 +11,9 @@ gem 'sass-rails', '~> 4.0.0'
 
 gem 'devise', '>= 3.2.4'
 
+# Simpleform gem
+gem 'simple_form', '>=3.0.1'
+
 # Twitter Bootstrap
 gem 'bootstrap-sass', '~> 3.3.1'
 gem 'autoprefixer-rails'
